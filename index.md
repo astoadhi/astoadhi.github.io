@@ -6,7 +6,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/astoadhi/Performance-Analysis-Newcastle-United-in-English-Premier-League-2021-2022)
 
-<center><img src="images/Newcastle_United_Logo.svg.png" width="600" height="600"/></center>
+<center><img src="images/Newcastle_United_Logo.svg.png" width="400" height="200"/></center>
 <br>
 <div style="text-align: justify">After 14 years as owner, Ashley sold the club to a new consortium for a reported £305 million, making them the richest football club in the world. The consortium was made up of Saudi Arabia's Public Investment Fund, RB Sports & Media and PCP Capital Partners. Because of that this project obejctives are to analyze Newcastle United's performance in 2021-2022, Identify strengths and weaknesses, Compare between the two managers </div>
 <br>
@@ -44,12 +44,13 @@ In this Article, I'm using Sleep Health and Lifestyle Dataset from Kaggle. The S
 
 ### From Books to Bytes: Migrating Your Library to a Digital Database
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/astoadhi/Database-for-eLibraries-Application)[![Static Badge](https://img.shields.io/badge/Medium-View_on_Medium-black?logo=medium&logoColor=Black)](https://medium.com/@asto.adhinugroho/from-books-to-bytes-migrating-your-library-to-a-digital-database-0f08ae5b5a69)
-
+<center><img src="images/library.jpg"/></center>
+<br>
 <div style="text-align: justify">Design a relational database for a library management system (dummy datasets). The application oversees multiple libraries, each hosting a diverse collection of books with varying quantities available for borrowing. Users can borrow or place holds on books (when the book is not immediately available for borrowing).</div>
 
 <br>
 
-<center><img src="images/ERD Diagram.png"/></center>
+
 ---
 
 ## Machine Learning
