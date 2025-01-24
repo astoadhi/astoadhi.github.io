@@ -6,7 +6,7 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/astoadhi/Performance-Analysis-Newcastle-United-in-English-Premier-League-2021-2022)
 
-<center><img src="images/Newcastle_United_Logo.svg.png" width="400" height="200"/></center>
+<center><img src="images/Newcastle_United_Logo.svg.png" width="400" height="400"/></center>
 <br>
 <div style="text-align: justify">After 14 years as owner, Ashley sold the club to a new consortium for a reported £305 million, making them the richest football club in the world. The consortium was made up of Saudi Arabia's Public Investment Fund, RB Sports & Media and PCP Capital Partners. Because of that this project obejctives are to analyze Newcastle United's performance in 2021-2022, Identify strengths and weaknesses, Compare between the two managers </div>
 <br>
