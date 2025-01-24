@@ -56,7 +56,7 @@ In this Article, I'm using Sleep Health and Lifestyle Dataset from Kaggle. The S
 
 <br>
 <img src="images/credit risk.jpg" align="left"  width="400" height="200"/>
-<img src="images/credit risk prediction.png" align="right" width="400" height="200"/>
+<img src="images/credit risk prediction.png" align="right" width="400" height="200"/><br>
 ---
 
 <center>© 2024 Triasto Adhinugroho. Powered by Jekyll and the Minimal Theme.</center>
