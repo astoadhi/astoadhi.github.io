@@ -52,11 +52,11 @@ In this Article, I'm using Sleep Health and Lifestyle Dataset from Kaggle. The S
 
 ### Credit Risk Classification
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/astoadhi/Credit-Risk-Classification/tree/main)
-<center><img src="images/credit risk.jpg" alt="Alt Text" width="800" height="600"/></center><center>
 <div style="text-align: justify">Credit risks are a commonly observed phenomenon in areas of finance that relate to mortgages, credit cards, and other kinds of loans. There is always a probability that the borrower may not get back with the amount. So this project aim is to predict the loan status (default or non-default) based on the given features related to the borrower and the loan itself.</div>
 
 <br>
-<img src="images/credit risk prediction.png"/></center>
+<img src="images/credit risk.jpg" alt="Alt Text" width="600" height="400"/>
+<img src="images/credit risk prediction.png"/>
 ---
 
 <center>© 2024 Triasto Adhinugroho. Powered by Jekyll and the Minimal Theme.</center>
