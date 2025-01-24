@@ -55,7 +55,7 @@ In this Article, I'm using Sleep Health and Lifestyle Dataset from Kaggle. The S
 <div style="text-align: justify">Credit risks are a commonly observed phenomenon in areas of finance that relate to mortgages, credit cards, and other kinds of loans. There is always a probability that the borrower may not get back with the amount.So this project aim is to predict the loan status (default or non-default) based on the given features related to the borrower and the loan itself.</div>
 
 <br>
-<center><img src="images/credit risk prediction.png"/></center>
+<center><img src="images/credit risk.jpg"/></center><center><img src="images/credit risk prediction.png"/></center>
 ---
 
 <center>© 2024 Triasto Adhinugroho. Powered by Jekyll and the Minimal Theme.</center>
