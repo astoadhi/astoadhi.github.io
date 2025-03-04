@@ -66,4 +66,4 @@ In this Article, I'm using Sleep Health and Lifestyle Dataset from Kaggle. The S
 
 ---
 
-<center>© 2024 Triasto Adhinugroho. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2025 Triasto Adhinugroho. Powered by Jekyll and the Minimal Theme.</center>
