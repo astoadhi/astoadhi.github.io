@@ -1,5 +1,18 @@
 # Portfolio
 ---
+## Machine Learning
+
+### Credit Risk Classification
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/astoadhi/Credit-Risk-Classification/tree/main)
+<center><img src="images/credit risk.jpg"/></center>
+<br>
+
+<div style="text-align: justify">Credit risks are a commonly observed phenomenon in areas of finance that relate to mortgages, credit cards, and other kinds of loans. There is always a probability that the borrower may not get back with the amount. So this project aim is to predict the loan status (default or non-default) based on the given features related to the borrower and the loan itself.</div>
+
+<br>
+
+---
+
 ## Data Analysis and Visualization
 
 ### Performance Analysis Newcastle United in English Premier League 2021-2022
@@ -50,19 +63,6 @@ In this Article, I'm using Sleep Health and Lifestyle Dataset from Kaggle. The S
 
 <br>
 
-
----
-
-## Machine Learning
-
-### Credit Risk Classification
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/astoadhi/Credit-Risk-Classification/tree/main)
-<center><img src="images/credit risk.jpg"/></center>
-<br>
-
-<div style="text-align: justify">Credit risks are a commonly observed phenomenon in areas of finance that relate to mortgages, credit cards, and other kinds of loans. There is always a probability that the borrower may not get back with the amount. So this project aim is to predict the loan status (default or non-default) based on the given features related to the borrower and the loan itself.</div>
-
-<br>
 
 ---
 
